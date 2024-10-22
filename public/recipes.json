@@ -1,0 +1,93 @@
+[
+    {
+      "recipe_id": 1,
+      "recipe_name": "Spicy Chicken Stir-Fry",
+      "recipe_image": "https://i.ibb.co.com/37YhQkZ/2148869911.jpg",
+      "short_description": "A quick and fiery stir-fry with tender chicken and vegetables in a spicy sauce.",
+      "ingredients": [
+        "500 g chicken breast",
+        "2 tbsp soy sauce",
+        "100 g bell peppers",
+        "2 cloves garlic",
+        "1 tbsp chili flakes"
+      ],
+      "preparing_time": 25,
+      "calories": 350
+    },
+    {
+      "recipe_id": 2,
+      "recipe_name": "Herbed Salmon Fillet",
+      "recipe_image": "https://i.ibb.co.com/GRBZ0by/2148601172.jpg",
+      "short_description": "Oven-baked salmon with fresh herbs and a hint of lemon for a light and flavorful meal.",
+      "ingredients": [
+        "300 g salmon fillet",
+        "1 tbsp olive oil",
+        "2 tsp fresh thyme",
+        "1 tsp lemon zest",
+        "Salt and pepper to taste"
+      ],
+      "preparing_time": 20,
+      "calories": 290
+    },
+    {
+      "recipe_id": 3,
+      "recipe_name": "Creamy Basil Pasta",
+      "recipe_image": "https://i.ibb.co.com/f14YvVm/2148869885.jpg",
+      "short_description": "Rich and creamy pasta infused with fresh basil and topped with parmesan.",
+      "ingredients": [
+        "250 g penne pasta",
+        "120 ml heavy cream",
+        "200 g basil leaves",
+        "50 g parmesan cheese",
+        "1 clove garlic"
+      ],
+      "preparing_time": 30,
+      "calories": 480
+    },
+    {
+      "recipe_id": 4,
+      "recipe_name": "Grilled Vegetable Skewers",
+      "recipe_image": "https://i.ibb.co.com/g3K6H8c/2148869891.jpg",
+      "short_description": "A colorful mix of vegetables grilled to perfection with a balsamic glaze.",
+      "ingredients": [
+        "100 g zucchini",
+        "100 g cherry tomatoes",
+        "100 g red onions",
+        "50 g mushrooms",
+        "2 tbsp balsamic vinegar"
+      ],
+      "preparing_time": 15,
+      "calories": 180
+    },
+    {
+      "recipe_id": 5,
+      "recipe_name": "Classic Beef Stroganoff",
+      "recipe_image": "https://i.ibb.co.com/b5yPD6w/2148941550.jpg",
+      "short_description": "Tender beef in a creamy mushroom sauce, served over buttery egg noodles.",
+      "ingredients": [
+        "500 g beef sirloin",
+        "200 g mushrooms",
+        "1 onion",
+        "100 ml sour cream",
+        "150 g egg noodles"
+      ],
+      "preparing_time": 40,
+      "calories": 520
+    },
+    {
+      "recipe_id": 6,
+      "recipe_name": "Lemon Garlic Shrimp",
+      "recipe_image": "https://i.ibb.co.com/cvNd0vh/2148834714.jpg",
+      "short_description": "Sautéed shrimp in a zesty lemon garlic sauce, perfect for a light meal.",
+      "ingredients": [
+        "400 g shrimp",
+        "2 tbsp butter",
+        "2 cloves garlic",
+        "1 tbsp lemon juice",
+        "1 tsp parsley"
+      ],
+      "preparing_time": 15,
+      "calories": 210
+    }
+  ]
+  
